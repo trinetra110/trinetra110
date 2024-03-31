@@ -1,6 +1,3 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhnOG1uN2QycXZnMnptNnM1cmtsb3NrZXpqMzBmZmMxZHJ2Z2VhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif)]()
-
-<br>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Yo!+Myself+Ayan+Mondal+from+India"/>
