@@ -7,7 +7,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on [Pages-A-Book-Shop-Website](https://github.com/trinetra110/Pages-A-Book-Shop-Website)
+🔭 I’m currently working on [Nomo-durga](https://github.com/trinetra110/nomo-durga)
 
 🌱 I’m currently learning **react, node, firebase, cybersecurity**
 
