@@ -7,7 +7,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on [Nomo-durga](https://github.com/trinetra110/nomo-durga)
+🔭 I’m currently working on [weather-cli-tool](https://github.com/trinetra110/weather-cli-tool) and [nomo-durga](https://github.com/trinetra110/nomo-durga)
 
 🌱 I’m currently learning **react, node, firebase, cybersecurity**
 
