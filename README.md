@@ -7,7 +7,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on [secure-pass](https://github.com/trinetra110/secure-pass) and [nomo-durga](https://github.com/trinetra110/nomo-durga)
+🔭 I’m currently working on [secure-pass](https://github.com/trinetra110/secure-pass) and [StegoAES](https://github.com/trinetra110/StegoAES)
 
 🌱 I’m currently learning **react, node, firebase, cybersecurity**
 
