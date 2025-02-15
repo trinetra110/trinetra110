@@ -7,7 +7,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on [PixelGuard](https://github.com/trinetra110/PixelGuard) and [StegoAES](https://github.com/trinetra110/StegoAES)
+🔭 I’m currently working on [PixelGuard](https://github.com/trinetra110/PixelGuard) and [ChronoCrypt](https://github.com/trinetra110/ChronoCrypt)
 
 🌱 I’m currently learning **react, node, firebase, cybersecurity**
 
