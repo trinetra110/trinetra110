@@ -7,7 +7,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on [PixelGuard](https://github.com/trinetra110/PixelGuard) and [ChronoCrypt](https://github.com/trinetra110/ChronoCrypt)
+🔭 I’m currently working on [Civix](https://github.com/trinetra110/civix)
 
 🌱 I’m currently learning **react, node, firebase, cybersecurity**
 
